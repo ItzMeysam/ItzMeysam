@@ -18,6 +18,10 @@ I enjoy building practical projects, exploring new technologies, and turning ide
 
 ### 🚀 Featured Projects
 
+**[Ecommerce Sales Intelligence](https://github.com/ItzMeysam/Ecommerce-Sales-Intelligence)**
+
+An end-to-end data analytics pipeline featuring synthetic data generation, relational data processing, customer segmentation, and visualizations using Python, Pandas, and Matplotlib.
+
 **[SQL & Pandas Data Analysis](https://github.com/ItzMeysam/sql-pandas-data-analysis)**
 
 A data analysis workflow using Python, Pandas, and SQLite, featuring data cleaning, SQL queries, monthly sales analysis, and customer insights.
